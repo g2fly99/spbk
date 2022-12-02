@@ -18,7 +18,6 @@ const (
 	callback = "http://121.201.115.60:18184/chout/notify/CMCCgdyd/DeliveryInfoNotification/sip:10650515001089007@botplatform.rcs.chinamobile.com"
 )
 
-// Operations about Users
 type M5gController struct {
 	beego.Controller
 }
