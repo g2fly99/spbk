@@ -1,3 +1,3 @@
 # spbk
 
-黑名单过滤
+a black number detect for sip protocol
